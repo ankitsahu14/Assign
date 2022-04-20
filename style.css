@@ -132,5 +132,10 @@
   .column {
     flex: 33.33%;
     padding: 5px;
+    color: white;
+  }
+  .columnn {
+    flex: 33.33%;
+    padding: 5px;
     color: black;
   }
