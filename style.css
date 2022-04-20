@@ -6,7 +6,9 @@
 .wrapper{
 	background: url(bg-img.jpg) no-repeat;
 	background-size: cover;
-	height: 100vh;
+	height: 1500px;
+    width: 100%;
+    background-position: center;
 }
 .wrapperr{
 	background: url(friends-img2.jpg) no-repeat;
